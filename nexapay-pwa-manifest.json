@@ -1,0 +1,31 @@
+{
+  "id": "./dashboard",
+  "name": "NexaPay Merchant",
+  "short_name": "NexaPay",
+  "description": "Secure merchant payments, balances, and real-time transaction activity.",
+  "start_url": "./dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f5f9",
+  "theme_color": "#3b5bdb",
+  "categories": [
+    "business",
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "nexapay.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "nexapay.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
